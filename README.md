@@ -3,14 +3,14 @@ Trying to solve as many starred problems as possible.
 ___
 |Book Chapter|Starred|All|
 |:-|--|-:|
-|Introduction|100%|23%|
-|Data Structures and Libraries|100%|28%|
-|Problem Solving Paradigms|78%|19%|
-|Graph|88%|25%|
-|Mathematics|9%|2%|
-|String Processing|7%|1%|
+|Introduction|82%|18%|
+|Data Structures and Libraries|91%|25%|
+|Problem Solving Paradigms|73%|18%|
+|Graph|0%|0%|
+|Mathematics|0%|0%|
+|String Processing|0%|0%|
 |(Computational) Geometry|0%|0%|
-|More Advanced Topics|2%|0%|
-|Rare Topics|3%|2%|
+|More Advanced Topics|0%|0%|
+|Rare Topics|0%|0%|
 
-Starred Problems solved: **198**/**459**
+Starred Problems solved: **111**/**459**

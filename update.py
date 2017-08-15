@@ -49,7 +49,7 @@ for chapter in r.json():
 	totalProblems += chapterProblems
 	totalSolved += chapterProblemsSolved
 f.close()
-f = open('readme.md', 'w')
+f = open('README.md', 'w')
 for line in output:
 	f.write(line)
 f.write("\nStarred Problems solved: **{}**/**{}**".format(totalStarSolved,totalStarProblems))

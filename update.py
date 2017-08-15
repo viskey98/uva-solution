@@ -8,7 +8,7 @@ totalStarProblems = 0
 totalStarSolved = 0
 output = []
 done = set()
-f = open('readme.md', 'r')
+f = open('README.md', 'r')
 for line in f:
 	output.append(line)
 	if "|:" in line:
